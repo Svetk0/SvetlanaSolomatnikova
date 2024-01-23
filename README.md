@@ -4,9 +4,11 @@
 
 ## About me:
 
-I'm a frontend-developer that works on React.js and Vanilla JS. I like technologies, robotics, web projects and I open to open ideas.
-Now I have some pet projects that I improve my skills.
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
+I'm a frontend-developer that works on React.js and Vanilla JS. I like technologies, robotics, web projects and I open to collaboration.
+Now I have some pet projects that helps me to improve my skills
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> .
+
+My previous experience was  focused on open-source education projects in robotics. We developed autonomous drones kit as a tool to be involved in robotics area and learn its hardware and software. I organised many competitions, webinars, educational trainings. But now, Iwould like to deep leart tech side.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -22,9 +24,9 @@ Now I have some pet projects that I improve my skills.
     <a href="https://www.linkedin.com/in/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-       <a href="https://www.linkedin.com/in/" target="_blank">
+       <!-- <a href="https://www.linkedin.com/in/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
+    </a> -->
     <a href="https://t.me/Sv_Solomatnikova" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
