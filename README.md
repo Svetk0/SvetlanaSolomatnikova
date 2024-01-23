@@ -8,7 +8,7 @@ I'm a frontend-developer that works on React.js and Vanilla JS. I like technolog
 Now I have some pet projects that helps me to improve my skills
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> .
 
-My previous experience was  focused on open-source education projects in robotics. We developed autonomous drones kit as a tool to be involved in robotics area and learn its hardware and software. I organised many competitions, webinars, educational trainings. But now, Iwould like to deep leart tech side.
+My previous experience was  focused on open-source education projects in robotics. We developed autonomous drones kit as a tool to be involved in robotics area and learn its hardware and software. I organised many competitions, webinars, educational trainings. But now, I would like to deep leart tech side.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
