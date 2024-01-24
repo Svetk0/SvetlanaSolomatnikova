@@ -21,7 +21,7 @@ My previous experience was  focused on open-source education projects in robotic
 ### 🤝 Social:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/" target="_blank">
+    <a href="https://www.linkedin.com/in/svetlana-solomatnikova-071592b1" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
        <!-- <a href="https://www.linkedin.com/in/" target="_blank">
