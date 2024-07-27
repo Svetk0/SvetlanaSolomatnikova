@@ -1,14 +1,17 @@
-# Hi, I'm Svetlana!
+# Привет, меня зовут Светлана!
 
 ---
 
-## About me:
+## Немного обо мне:
 
-I'm a frontend-developer that works on React.js and Vanilla JS. I like technologies, robotics, web projects and I open to collaboration.
-Now I have some pet projects that helps me to improve my skills
+Я - фанат технологий, различных девайсов и лего. В прошлом занималась разработкой подводных роботов, а затем преподавала робототехнику для детей, школьников и студентов.
+Сейчас я усиленно развиваюсь в направлении frontend: делаю PET проекты на js и react.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> .
 
-My previous experience was  focused on open-source education projects in robotics. We developed autonomous drone kits as a tool to be involved in robotics area and learn its hardware and software. I organised many competitions, webinars, educational trainings. Also, I developed many instructions and technical documentation. And now, I would like to deep learn in tech side.
+
+Я - ответственный человек и делаю качественно (даже когда нужно "сделать быстро"). Нравится работать в команде единомышленников.
+У меня хорошая насмотренность сайтов и приложений, а также пользовательский опыт, поэтому также обращаю внимание на дизайн, восприятие и UI/UX так, чтобы продукт стал лучше для конечного пользователя, а не просто выполнить свою задачу.
+Также мне нравится составлять документацию на продукт.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -32,7 +35,7 @@ My previous experience was  focused on open-source education projects in robotic
 
 ---
 
-## 🤝 Social:
+## 🤝 Мои соцсети:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/svetlana-solomatnikova-071592b1" target="_blank">
@@ -49,7 +52,7 @@ My previous experience was  focused on open-source education projects in robotic
 
 ---
 
-## 💻 Stack:
+## 💻 Мой стек:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -67,7 +70,7 @@ My previous experience was  focused on open-source education projects in robotic
 
 ---
 
-## 🛠 Tools:
+## 🛠 Немного инструментальной базы:
 
 <div>
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp; -->
