@@ -17,7 +17,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :mailbox: how to reach me: [![Telegram Badge](https://img.shields.io/badge/-sv_solomatnikova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Sv_Solomatnikova) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sv.solomatnikova@gmail.com)
+ :mailbox: **Мои контакты:** <br>  [![Telegram Badge](https://img.shields.io/badge/-sv_solomatnikova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Sv_Solomatnikova) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sv.solomatnikova@gmail.com)
 
 ---
 <br> 
