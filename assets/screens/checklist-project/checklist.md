@@ -7,8 +7,10 @@
 ## О приложении
 
 Веб-приложение позволяет произвести диагностику (срез) знаний слушателей в области фронтенда. Результаты выдаются в виде тем с правильными и неправильными ответами, а также материалы для изучения.
-<img src="./img/home.png" width="100%">
-
+<div align="center" >
+<img src="./img/home.png" width="45%">
+<img src="./img/test.png" width="45%">
+</div>
 ## Мой вклад
 
 Я разработала страничку с результатами. В нее входит следующий функционал:
@@ -19,8 +21,8 @@
 - обработка ошибок при взаимодействии с сервером
 - сброс всех результатов по кнопке (с доп подтверждением в виде модульного окна) и перенаправление на тестирование
 
-<div align="center" width="70%">
-<img src="./img/result-home.png" > 
-<img src="./img/result-topics.png" > 
-<img src="./img/result-full.png" >
+<div align="center" >
+<img src="./img/result-home.png" width="70%"> 
+<img src="./img/result-topics.png" width="70%"> 
+<img src="./img/result-full.png" width="70%">
 </div>
